@@ -1,0 +1,69 @@
+[
+  {
+    "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "fileSize": 275303,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Hexated",
+      "Sora"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "version": 228,
+    "internalName": "SoraStream",
+    "description": "#1 best extention based on MultiAPI",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+    "name": "SoraStream"
+  },
+  {
+    "iconUrl": "https://iosmirror.cc/img/nf2/icon_x192.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
+    "fileSize": 37072,
+    "status": 1,
+    "language": "hi",
+    "authors": [
+      "Horis, megix",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 8,
+    "internalName": "NetflixMirror",
+    "description": "Netflix, PrimeVideo Content in Multiple Languages",
+    "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/NetflixMirror.cs3",
+    "name": "NetflixMirror"
+  },
+  {
+    "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "fileSize": 405934,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Phisher98",
+      "Hexated"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "version": 103,
+    "internalName": "StreamPlay",
+    "description": "#1 best extention based on MultiAPI",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+    "name": "StreamPlay"
+  }
+]
